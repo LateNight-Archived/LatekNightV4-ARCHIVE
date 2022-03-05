@@ -2,7 +2,9 @@
 Last version of LatenightV4 release
 
 
--Use Dnspy to decompile and edit Latenight.
+-Use Dnspy[https://github.com/LateNight-Archived/LatekNightV4-ARCHIVE] to decompile and edit Latenight.
+
+
 then submit a issue with the title [Update]
 and it will be added to this repo
 
