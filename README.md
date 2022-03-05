@@ -2,6 +2,15 @@
 Last version of LatenightV4 release
 
 
+-Use Dnspy to decompile and edit Latenight.
+then submit a issue with the title [Update]
+and it will be added to this repo
+
+
+
+
+
+
 - LateNight was free and publically available to anyone who wished to use it
 
 - No attempts were made to protect the software in any form.
